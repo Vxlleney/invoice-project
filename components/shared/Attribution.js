@@ -124,7 +124,7 @@ export default function Attribution({ isOpen, setIsOpen }) {
             key="container"
         >
             <Wrapper>
-                <Avatar src="/images/vxlleney.png" alt="profile image"/>
+                <Avatar src="/images/image-avatar.jpg" alt="profile image"/>
                 <Heading>Vxlleney</Heading>
                 
                 <Link href="vxlleney.vercep.app" target="_blank">
